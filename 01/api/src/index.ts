@@ -1,1 +1,1 @@
-console.log("Server is starting...");
+console.log("🚀 Server is starting...");

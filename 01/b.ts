@@ -1,0 +1,1 @@
+// "dev": "nodemon --watch 'src/' --exec 'ts-node src/index.ts' -e ts"
